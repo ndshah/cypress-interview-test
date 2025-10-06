@@ -1,5 +1,5 @@
 
-# Cypress Interview Test – Candidate Instructions
+# Cypress Test Setup
 
 ## Objective
 
